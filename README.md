@@ -1,2 +1,2 @@
 # House_Sale_Prediction
-First Anveshan Project
+Project that detects prices of house sale based on the square footage of the house.
