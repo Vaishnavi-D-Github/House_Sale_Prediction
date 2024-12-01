@@ -2,6 +2,7 @@
 
 A Streamlit-based application for predicting house sale prices based on the square footage of a house.
 
+
 ## Features
 
 - Upload a CSV file containing house size and price data.
@@ -10,10 +11,12 @@ A Streamlit-based application for predicting house sale prices based on the squa
 - View training results, including R² score and graphs of actual vs. predicted prices.
 - Perform live predictions by inputting the square footage of a house.
 
+
 ## Requirements
 
 - Python (latest version)
 - Streamlit package
+
 
 ## Installation
 
@@ -30,6 +33,7 @@ A Streamlit-based application for predicting house sale prices based on the squa
    streamlit run <path-to-file>\app.py
 
 4. The app will open in your web browser.
+
 
 ## Usage
 ### 1. Upload Data:
@@ -48,6 +52,7 @@ A Streamlit-based application for predicting house sale prices based on the squa
 1. Input the square footage of a house.
 2. View the predicted house price instantly.
 
+
 ## Example CSV file
 ```bash
 houseSize,price
@@ -55,6 +60,7 @@ houseSize,price
 1500,250000
 1800,300000
 ```
+
 
 ## Output
 1. R² Score of the trained model.
